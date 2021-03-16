@@ -23,6 +23,7 @@ function useGetCharacters(){
           setLoading(d.loading);
           // if(d.error)
           //   setError(d.error)
+          //fwfwfwf test git push
         });
       } catch (error) {
         setError(error)
